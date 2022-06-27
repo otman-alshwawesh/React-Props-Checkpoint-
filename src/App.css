@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+.cc{
+  background-color: #282c34;
+  color: aliceblue;
+}
+.mm{
+  border: 2px solid #282c34;
+  font-size:xx-large;
+  margin:2% 20%;
+  border-radius: 30px;
+  background-color: rgb(241, 199, 58);
+color: rgb(196, 52, 52);
+}
+.carddiv{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.mb-2{
+  color: aliceblue;
+  width: 300px;
+  background-color: rgb(47, 73, 63);
+}
+.nav{
+  background-color: #282c34;
+  
+}
+
+.navbar-brand, .nav-home , .nav-link{
+  color: rgb(240, 248, 255) !important;
+}
